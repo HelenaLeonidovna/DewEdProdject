@@ -9,11 +9,11 @@ public class Run {
 
         RandomClass randomClass = new RandomClass();
 
-     //randomClass.Random();
-     //randomClass.TenRandom();
-     //randomClass.RandomFromZeroForTen();
-     //randomClass.RandomFromTwenty();
-     //randomClass.RandomFromMinus();
+     randomClass.Random();
+     randomClass.TenRandom();
+     randomClass.RandomFromZeroForTen();
+     randomClass.RandomFromTwenty();
+     randomClass.RandomFromMinus();
        randomClass.RandomHelp();
 
 
